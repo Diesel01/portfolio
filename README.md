@@ -1,0 +1,1 @@
+This is my portfolio. In it, you may find how to contact me, as well as my past projects. 

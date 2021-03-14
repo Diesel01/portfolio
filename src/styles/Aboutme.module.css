@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+.h3Div{ 
+    position: relative;
+    display: flex;
+    margin-left: 1%;
+}
+
+.backgroundDivH3{ 
+    position: absolute;
+    bottom: -40px;
+    background-color: #203C56;
+    width: 16%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.secondH3{ 
+    margin: 5%; 
+    text-align: center; 
+    font-size: 270%; 
+    color: #FFECD6;
+    font-weight: 300;
+}
+
+.aboutMeParagraphDiv{ 
+    padding-top: 3%;
+    padding-bottom: 1.5%;
+    margin-bottom: 3%;
+    background-color: #FFECD6;
+}
+
+.aboutMeText{ 
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 110%;
+    line-height: 32px;
+    text-align: right;
+    padding-right: 2%;
+    padding-left: 19%; 
+ }

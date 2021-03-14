@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+.mainHeader { 
+    background-color: #203C56;
+    margin-bottom: 3%;
+}
+
+.headerDiv{ 
+    display: grid;
+    grid-template-columns: 66% 45%;
+}
+
+.titleDiv{ 
+    margin: 0%;
+    padding-left: 10%;
+    text-align: center;
+}
+
+h1 { 
+    color: #FFffff;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px; 
+    text-align: center;
+    margin-top: 5%;
+}
+
+h2 { 
+    color: #FFECD6;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 43px;
+    text-align: center;
+    margin-top: 5%;
+} 
+
+img { 
+    border-radius: 163px;
+    width: 33%; 
+    padding-top: 2%;
+    margin-left: 9%;
+}
+
+.headerNav{
+    background-color: #896778;
+    padding: 0.35%;
+    margin-top: 2%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    align-items: center;
+}
+
+.navLinks{ 
+    color: #FFECD6;
+    margin: 2%;
+    font-family: Lato;
+    font-size: larger;
+    text-align: center;
+}

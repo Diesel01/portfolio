@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+
+.h3Div{ 
+    position: relative;
+    display: flex;
+    flex-direction: row-reverse;
+    margin-right: 1%;
+}
+
+.backgroundDivH3{ 
+    position: absolute;
+    bottom: -40px;
+    background-color: #203C56;
+    width: 19%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.secondH3{ 
+    margin: 5%; 
+    text-align: center; 
+    font-size: 270%; 
+    color: #FFECD6;
+    font-weight: 300;
+}
