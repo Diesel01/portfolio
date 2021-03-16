@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+.footer{
+ display: grid; 
+ grid-template-columns: auto auto;
+ background-color: #896778;
+} 
+
+.textDiv{
+
+}
+
+.footerP{ 
+    color: #FFffff; 
+    font-family: 'Lato', sans-serif;
+}
+
+.address{
+
+} 
+
+.logoImg{
+
+} 

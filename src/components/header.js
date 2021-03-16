@@ -1,5 +1,5 @@
 import React from "react";
-import { mainHeader, headerDiv, titleDiv, headerNav, navLinks } from "../styles/Header.module.css";
+import { mainHeader, headerDiv, titleDiv, headerNav, navLinks, profileImg } from "../styles/Header.module.css";
 
 export default class Header extends React.Component{ 
     render(){ 
@@ -12,7 +12,7 @@ export default class Header extends React.Component{
                         <h1>{greetings}</h1>
                         <h2>{description}</h2>
                     </div>
-                    <img src = "../imgs/profilePic.png" alt = 'Profile' />
+                    <img src = "../imgs/profilePic.png" alt = 'Profile' className = {profileImg} />
                 </div>
                
                 <nav className = {headerNav}>
