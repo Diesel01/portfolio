@@ -7,7 +7,7 @@
 } 
 
 .textDiv{
-
+    display: block;
 }
 
 .footerP{ 
@@ -16,8 +16,11 @@
 }
 
 .address{
+    display: block;
+
 } 
 
 .logoImg{
+    display: block;
 
 } 
