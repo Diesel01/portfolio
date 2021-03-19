@@ -5,10 +5,9 @@ const en = {
 
     firstH3: "About me", 
 
-    aboutMe: `I am currently an undergraduate Philosophy student at the Federal University of Santa Maria (UFSM), Brazil.
-      As a member of the Philosophy of Memory Lab, my research is focused on episodic memory, metacognition and their phenomenology.
-      I'm also interested in metaphysics of time, philosophy of mind and philosophy teaching.
-      I also have experience with web development and design. One of my previous works includes the layout for Voluntas: International Journal of Philosophy.`,
+    aboutMe: `I have a B.A in Philosophy and a passion for web development! 
+      As a self-taught developer, my skils are aimed towards front-end development, specially using frameworks such as React, Angular and jQuery. 
+      I also have a strong interest in web design and some experience with Node.js.`,
       
     secondH3: "Web development",  
 
@@ -30,10 +29,9 @@ const de = {
 
     firstH3: "Über mich", 
 
-    aboutMe: `Ich studiere derzeit Philosophie auf der Bundesuniversität Santa Maria (UFSM), Brasilien. 
-      Als Mitglied von dem Lab von Philosophie des Gedächtnisses, meine Forschung fokussiert sich auf episodische Gedächtnis und Metakognition.
-      Auch interessiere ich mich auf die Metaphysik der Zeit, Philosophie des Geistes und Philosophieunterricht.
-      Ich habe auch Erfahrung bei Webentwicklung und Webdesign.`, 
+    aboutMe: `Ich habe ein Diplom in Philosophie und eine Passsion für Webentwicklung! 
+      Als ein autodiktat Entwickler, besitze ich die Fähigkeiten, gute und "clean" Frontendcode zu schreiben, insbesondere mit Frameworks wie React, Angular und jQuery. 
+      Ich habe auch ein großes Interesse für Webdesign und Erfahrung mit Node.js.`, 
 
     secondH3: "Webentwicklung",  
 
