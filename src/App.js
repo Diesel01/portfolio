@@ -39,7 +39,7 @@ class App extends React.Component {
             </div>
           </div>
 
-          {this.state.lang.webDevProjects.map((project, index) => { return (<WebDev {...project} key = {project.index}/>) })}
+          {this.state.lang.webDevProjects.map((project, index) => { return (<WebDev {...project} key = {index}/>) })}
         </section> 
       
       </>

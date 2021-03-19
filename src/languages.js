@@ -18,7 +18,7 @@ const en = {
           tech: "Node package manager, Git, vanilla Javascript, Webpack compiler, HTML and CSS (no frameworks).", 
           repo: "https://github.com/Diesel01/todo_list", 
           live: "https://github.com/Diesel01/todo_list/dist/index.html",
-          img: "../imgs/pending.png"
+          img: "./imgs/pending.png"
         }
     ]
 };
@@ -43,7 +43,7 @@ const de = {
           tech: "Node package manager, Git, vanilla Javascript, Webpack compiler, HTML and CSS (no frameworks).", 
           repo: "https://github.com/Diesel01/todo_list", 
           live: "https://github.com/Diesel01/todo_list/dist/index.html",
-          img: "../imgs/pending.png"
+          img: "./imgs/pending.png"
         }
     ]
 }
