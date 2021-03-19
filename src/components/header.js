@@ -12,7 +12,7 @@ export default class Header extends React.Component{
                         <h1>{greetings}</h1>
                         <h2>{description}</h2>
                     </div>
-                    <img src = "../imgs/profilePic.png" alt = 'Profile' className = {profileImg} />
+                    <img src = "./imgs/profilePic.png" alt = 'Profile' className = {profileImg} />
                 </div>
                
                 <nav className = {headerNav}>
