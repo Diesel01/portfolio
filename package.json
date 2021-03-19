@@ -34,6 +34,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }, 
-  "homepage": "https://diesel01.github.io/portfolio"
+  },
+  "homepage": "https://diesel01.github.io/portfolio",
+  "devDependencies": {
+    "gh-pages-deploy": "^0.5.1"
+  }
 }
