@@ -42,7 +42,27 @@ const de = {
           repo: "https://github.com/Diesel01/todo_list", 
           live: "https://github.com/Diesel01/todo_list/dist/index.html",
           img: "./imgs/pending.png"
-        }
+        }, 
+
+        { 
+          name: "Livre-arbítrio e responsabilidade", 
+          description: `"Livre-arbítrio e responsabilidade" is a website created for the Pedagogical Residency in Philosophy. 
+            In it, the user has access to an interactive story, where they can make choices that alter the story's progress. 
+            The objective of this website is to introduce key concepts in Ethics for highschool students`, 
+          tech: "Firebase, Git, vanilla Javascript, Webpack, HTML and CSS (no frameworks).", 
+          repo: "https://github.com/Diesel01/Solo-RPG", 
+          live: "https://solo-rpg-rp.web.app/",
+          img: "./imgs/solorpg.png"
+        }, 
+
+        { 
+          name: "Song-finder", 
+          description: `Song-finder is an application to search songs through iTunes' API.  It returns a 30 seconds demo and an album cover.`, 
+          tech: "Vanilla Javascript, Webpack, HTML and CSS (no frameworks).", 
+          repo: "https://github.com/Diesel01/song-finder", 
+          live: "https://diesel01.github.io/song-finder/",
+          img: "./imgs/songfinder.png"
+        }, 
     ]
 }
 
