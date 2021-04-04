@@ -61,7 +61,7 @@ const de = {
           tech: "Vanilla Javascript, Webpack, HTML and CSS (no frameworks).", 
           repo: "https://github.com/Diesel01/song-finder", 
           live: "https://diesel01.github.io/song-finder/",
-          img: "./imgs/songfinder.png"
+          img: "./imgs/songfinder1.png"
         }, 
     ]
 }
